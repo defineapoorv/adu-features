@@ -9,7 +9,7 @@ To run on your localhost follow these instructions
 3. Run `pip install -r requirements.txt`
 4. Run `python application.py`
 
-This app currently runs only for Alameda County
+This app currently runs only for *Alameda County*
 
 On your browser run this
 `http://127.0.0.1:5000/get_predictions/<pid>`
