@@ -12,7 +12,7 @@ To run on your localhost follow these instructions
 This app currently runs only for Alameda County
 
 On your browser run this
-http: //127.0.0.1:5000/get_predictions/<pid>
+`http://127.0.0.1:5000/get_predictions/<pid>`
 
 Where `pid` is Parcel id of property
 Here are some examples
