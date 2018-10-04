@@ -24,6 +24,11 @@ http://127.0.0.1:5000/get_predictions/73-403-27
 http://127.0.0.1:5000/get_predictions/74-1290-138
 
 
-Here is a Sample Output
+#Here is a Sample Output
+
 ![Sample Output](https://raw.githubusercontent.com/defineapoorv/adu-features/master/sample/test-output.png)
+
+`pool` tells probability of property having a swimming pool
+`solar` tells probability of property having a solar panel
+`adu` tells probability of property having a accessory swelling unit
 
