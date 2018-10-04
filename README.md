@@ -18,6 +18,8 @@ Where `pid` is Parcel id of property
 Here are some examples
 
 http://127.0.0.1:5000/get_predictions/74-437-25
+
 http://127.0.0.1:5000/get_predictions/73-403-27
-127.0.0.1:5000/get_predictions/74-1290-138
+
+http://127.0.0.1:5000/get_predictions/74-1290-138
 
