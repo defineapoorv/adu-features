@@ -32,5 +32,5 @@ http://127.0.0.1:5000/get_predictions/74-1290-138
 
 `solar` tells probability of property having a solar panel
 
-`adu` tells probability of property having a accessory swelling unit
+`adu` tells probability of property having a accessory dwelling unit
 
