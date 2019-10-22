@@ -16,7 +16,7 @@ networkx==2.0
 numpy==1.13.3
 olefile==0.44
 pandas==0.21.1
-Pillow==4.3.0
+Pillow==6.2.0
 protobuf==3.5.1
 psycopg2==2.7.5
 pyparsing==2.2.0
